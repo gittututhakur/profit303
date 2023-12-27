@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://profit303-jitu.de-rse.org/sitemap.xml
